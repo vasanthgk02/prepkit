@@ -1,0 +1,91 @@
+[1] Communication Protocols
+
+- TCP basics
+- UDP basics
+- HTTP/1, HTTP/2, HTTP/3
+- WebSockets
+- gRPC
+- REST
+
+[2] Web Servers & Frameworks
+
+- Web server internals (NGINX, Apache, NodeJS)
+- Reverse proxies
+- Load balancers
+- Edge servers
+- Threading models (blocking, non-blocking)
+- Caching (server-side)
+- Web frameworks (Express, Django, Spring, Flask)
+
+[3] Database Engineering
+
+- Relational databases (Postgres, MySQL, Oracle)
+- ACID properties
+- Transactions
+- Indexing
+- Data modeling & normalization
+- SQL basics & optimization
+- NoSQL databases (MongoDB, DynamoDB, Cassandra, Redis)
+- CAP theorem
+- Sharding & replication
+- Eventual consistency
+
+[4] Proxies & Load Balancing
+
+- Proxy servers
+- Reverse proxy concepts
+- TLS termination
+- Service meshes (Istio, Envoy)
+- Load balancing strategies (round robin, least connections, etc.)
+
+[5] Caching
+
+- In-memory caches (Redis, Memcached)
+- Stateful vs stateless caching
+- Cache invalidation
+- Client/server/reverse proxy/database caching layers
+
+[6] Messaging & Queues
+
+- Message brokers (RabbitMQ, Kafka, SQS)
+- Publish/Subscribe systems
+- Point-to-point queues
+- Event-driven architecture
+
+[7] API Design & Message Formats
+
+- RESTful APIs
+- gRPC APIs
+- API versioning
+- JSON
+- XML
+- Protocol Buffers
+- API documentation
+
+[8] Security Fundamentals
+
+- TLS/SSL basics
+- Authentication (JWT, OAuth, API keys)
+- Authorization
+- Secure secret storage
+- SQL injection, XSS, CSRF prevention
+- Firewalls & port management
+- DDoS basics
+
+[9] Monitoring, Logging, Debugging
+
+- Application metrics
+- Centralized logging
+- Distributed tracing
+- Alerting
+- Health checks
+
+[10] Core Engineering Skills
+
+- One backend language (Python, Java, Go, Node.js, Rust, etc.)
+- Version control (Git)
+- Build tools
+- CI/CD basics
+- Containerization (Docker, Kubernetes basics)
+- Writing clean, maintainable code
+- Production deployments
